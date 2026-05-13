@@ -1,5 +1,7 @@
 Integrating Orthogonalized ESG Risk Metrics into Factor Attribution Models
 
+The ESG factors can be replaced by any other risk metrics. Using ESG here is for demonstration and simplicity reasosns.
+
 This project explores the integration of orthogonalized ESG-related risk metrics into conventional factor attribution models to provide a more comprehensive assessment of portfolio performance drivers and risk exposures.
 
 Using 10 hypothetical ESG-related metrics alongside traditional equity and fixed income risk factors, the analysis evaluates the incremental explanatory power of ESG-related factors after removing overlapping effects with conventional style and market factors.
